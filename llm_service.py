@@ -591,7 +591,7 @@ def analyze_meeting(
     # API key
     # -----------------------------------------------------
 
-    api_key = st.secrets("GEMINI_API_KEY")
+    api_key = st.secrets["GEMINI_API_KEY"]
 
     if not api_key:
         raise ValueError(

@@ -5,7 +5,6 @@ import os
 import re
 import streamlit as st
 
-from dotenv import load_dotenv
 from google import genai
 
 from schemas import MeetingOutput
@@ -14,8 +13,6 @@ from schemas import MeetingOutput
 # =========================================================
 # ENVIRONMENT
 # =========================================================
-
-load_dotenv()
 
 
 MODEL_NAME = os.getenv(

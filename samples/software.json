@@ -1,0 +1,55 @@
+{
+  "meeting_title": "Release Planning and Bug Resolution",
+  "summary": "The meeting discussed the release candidate for Thursday, which is currently blocked by a login timeout bug. Ali will investigate the bug today, and Noor will rerun the full regression suite after the fix. The release remains conditional on the bug fix being small and QA passing. The reporting dashboard redesign is considered optional and not a priority for this release. Token refresh is noted as a hypothesis for the bug, not a confirmed finding. Usman confirmed readiness to support the release once QA signs off.",
+  "decisions": [
+    {
+      "decision": "The release target remains Thursday, conditional on the login timeout bug fix and QA passing.",
+      "evidence": "Then Thursday remains the target, conditional on the bug fix and QA passing."
+    },
+    {
+      "decision": "Token refresh should be recorded as a hypothesis, not a confirmed finding, regarding the login timeout bug.",
+      "evidence": "Let us record token refresh as a hypothesis, not a finding."
+    }
+  ],
+  "action_items": [
+    {
+      "task": "Investigate the login timeout bug and post findings in the engineering channel.",
+      "owner": "Ali",
+      "deadline": "today",
+      "priority": null,
+      "evidence": "I can investigate the timeout bug today and post findings in the engineering channel."
+    },
+    {
+      "task": "Rerun the full regression suite after Ali posts the fix.",
+      "owner": "Noor",
+      "deadline": null,
+      "priority": null,
+      "evidence": "I will rerun the full regression suite after Ali posts the fix."
+    },
+    {
+      "task": "Support the release once QA signs off.",
+      "owner": "Usman",
+      "deadline": null,
+      "priority": null,
+      "evidence": "I can support the release once QA signs off."
+    }
+  ],
+  "risks": [
+    {
+      "risk": "A login timeout bug appears after five minutes of inactivity, preventing QA from finishing.",
+      "evidence": "QA cannot finish because the login timeout bug appears after five minutes of inactivity."
+    },
+    {
+      "risk": "The bug fix might not be small, which would require moving the release target.",
+      "evidence": "If it is not small, we should move the release."
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "Should the reporting dashboard redesign be included in this release?",
+      "owner": null,
+      "evidence": "Should we also include the reporting dashboard redesign in this release?"
+    }
+  ],
+  "ambiguities": []
+}

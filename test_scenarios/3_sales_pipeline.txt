@@ -1,0 +1,12 @@
+Ayesha — Let us start with NorthStar Retail. They want an AI customer-support chatbot and CRM lead routing.
+Bilal — I will send the proposal to NorthStar on Monday. No budget has been confirmed yet.
+Sara — I can schedule a discovery call with their operations manager next week, but we do not have a time yet.
+Ayesha — Good. Keep the opportunity open; do not mark it qualified until we know buying criteria.
+Hamza — GreenPeak SaaS asked whether we support document extraction from invoices. I can prepare a technical note.
+Bilal — Their expected volume was described as high, but there was no number.
+Ayesha — Then do not put a numeric volume in CRM.
+Sara — BrightHome Logistics asked for workflow automation, but they have not named an owner or budget.
+Ayesha — Sara, send a short clarification email. We need the business owner and expected timeline.
+Bilal — Should we mark BrightHome as high priority because they sounded interested?
+Ayesha — No. Interest alone is not our qualification rule.
+Hamza — I will send the NorthStar proposal template to Bilal so he can reuse the technical wording.

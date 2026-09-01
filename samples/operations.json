@@ -1,0 +1,32 @@
+{
+  "meeting_title": "Supplier Shipment and Emergency Purchase Discussion",
+  "summary": "The meeting discussed conflicting delivery dates from Supplier Delta, the status of an emergency purchase request for cartons, and a contingency plan for an alternate carton supplier.",
+  "decisions": [],
+  "action_items": [
+    {
+      "task": "Submit the emergency purchase request",
+      "owner": "Zain",
+      "deadline": "today",
+      "priority": null,
+      "evidence": "Then Procurement should submit it today. I can submit it today."
+    }
+  ],
+  "risks": [
+    {
+      "risk": "Conflicting delivery dates from Supplier Delta (Tuesday vs. Friday)",
+      "evidence": "Supplier Delta said the shipment should arrive Tuesday, but their tracking page still shows Friday. Record the conflicting Tuesday/Friday delivery information as a risk."
+    },
+    {
+      "risk": "Running short on cartons if the shipment does not arrive by Wednesday",
+      "evidence": "After Wednesday we run short on cartons."
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "What is the approval deadline for the emergency purchase request?",
+      "owner": null,
+      "evidence": "I do not know the approval deadline."
+    }
+  ],
+  "ambiguities": []
+}

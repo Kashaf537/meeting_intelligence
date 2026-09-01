@@ -1,0 +1,11 @@
+Sarah — Thanks everyone. The target launch date is Friday the 18th. We need checkout and payment approval cleared first.
+Ahmed — I finished the cart page. I will finish checkout by Wednesday evening.
+Maria — Product descriptions are about 80% done. I will complete the remaining descriptions by Tuesday.
+Omar — The payment gateway agreement is waiting for Finance approval. Lina, can you confirm whether Finance can review it tomorrow?
+Lina — I can review it tomorrow, but I cannot promise approval because the compliance checklist is still open.
+Ahmed — Analytics tracking is also incomplete. I can start it after checkout is stable.
+Sarah — Agreed. Checkout and payment approval are the top priorities. Analytics can follow after that.
+Maria — Should we move launch to Monday if approval slips?
+Sarah — Let us not change the launch date yet. We will reassess after Finance responds tomorrow.
+Omar — One more thing: the vendor sandbox occasionally returns a 401 error. It has happened twice today.
+Sarah — Please record that as a risk, but do not block launch on it unless it becomes reproducible

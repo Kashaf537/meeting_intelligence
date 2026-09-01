@@ -1,0 +1,12 @@
+Fatima — We need a release candidate this week. The current plan is Thursday afternoon.
+Noor — QA cannot finish because the login timeout bug appears after five minutes of inactivity.
+Ali — I can investigate the timeout bug today and post findings in the engineering channel.
+Hamza — If the fix is small, we can still target Thursday. If it is not small, we should move the release.
+Usman — The deployment pipeline is ready. I have already tested the rollback procedure.
+Fatima — Should we also include the reporting dashboard redesign in this release?
+Hamza — No decision on that. It is optional and should not distract from the blocking bug.
+Noor — I will rerun the full regression suite after Ali posts the fix.
+Ali — The timeout could be related to token refresh, but I have not confirmed the cause yet.
+Hamza — Let us record token refresh as a hypothesis, not a finding.
+Fatima — Then Thursday remains the target, conditional on the bug fix and QA passing.
+Usman — I can support the release once QA signs off.

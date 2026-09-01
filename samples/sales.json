@@ -1,0 +1,95 @@
+{
+  "meeting_title": "Client Opportunity Discussion",
+  "summary": "The meeting focused on reviewing progress and next steps for several client opportunities, including NorthStar Retail, GreenPeak SaaS, and BrightHome Logistics. Discussions covered proposal submissions, scheduling discovery calls, qualification criteria, and gathering missing information like budgets, owners, and timelines.",
+  "decisions": [
+    {
+      "decision": "Do not mark NorthStar Retail opportunity as qualified until buying criteria are known.",
+      "evidence": "Ayesha — Good. Keep the opportunity open; do not mark it qualified until we know buying criteria."
+    },
+    {
+      "decision": "Do not put a numeric volume for GreenPeak SaaS in CRM.",
+      "evidence": "Ayesha — Then do not put a numeric volume in CRM."
+    },
+    {
+      "decision": "Do not mark BrightHome Logistics as high priority based solely on interest.",
+      "evidence": "Ayesha — No. Interest alone is not our qualification rule."
+    }
+  ],
+  "action_items": [
+    {
+      "task": "Send the proposal to NorthStar.",
+      "owner": "Bilal",
+      "deadline": "Monday",
+      "priority": null,
+      "evidence": "Bilal — I will send the proposal to NorthStar on Monday."
+    },
+    {
+      "task": "Schedule a discovery call with NorthStar's operations manager.",
+      "owner": "Sara",
+      "deadline": "next week",
+      "priority": null,
+      "evidence": "Sara — I can schedule a discovery call with their operations manager next week"
+    },
+    {
+      "task": "Prepare a technical note regarding document extraction from invoices for GreenPeak SaaS.",
+      "owner": "Hamza",
+      "deadline": null,
+      "priority": null,
+      "evidence": "Hamza — I can prepare a technical note."
+    },
+    {
+      "task": "Send a short clarification email to BrightHome Logistics.",
+      "owner": "Sara",
+      "deadline": null,
+      "priority": null,
+      "evidence": "Ayesha — Sara, send a short clarification email."
+    },
+    {
+      "task": "Send the NorthStar proposal template to Bilal.",
+      "owner": "Hamza",
+      "deadline": null,
+      "priority": null,
+      "evidence": "Hamza — I will send the NorthStar proposal template to Bilal"
+    }
+  ],
+  "risks": [],
+  "open_questions": [
+    {
+      "question": "What is the time for the discovery call with NorthStar's operations manager?",
+      "owner": null,
+      "evidence": "Sara — but we do not have a time yet."
+    },
+    {
+      "question": "What are NorthStar Retail's buying criteria?",
+      "owner": null,
+      "evidence": "Ayesha — do not mark it qualified until we know buying criteria."
+    },
+    {
+      "question": "Who is the owner for BrightHome Logistics' workflow automation request?",
+      "owner": null,
+      "evidence": "Sara — but they have not named an owner"
+    },
+    {
+      "question": "What is the budget for BrightHome Logistics' workflow automation request?",
+      "owner": null,
+      "evidence": "Sara — or budget."
+    },
+    {
+      "question": "Who is the business owner for BrightHome Logistics' workflow automation request?",
+      "owner": null,
+      "evidence": "Ayesha — We need the business owner"
+    },
+    {
+      "question": "What is the expected timeline for BrightHome Logistics' workflow automation request?",
+      "owner": null,
+      "evidence": "Ayesha — and expected timeline."
+    }
+  ],
+  "ambiguities": [
+    {
+      "issue": "GreenPeak SaaS's expected volume was described as high but lacks a specific number.",
+      "why_ambiguous": "The volume was described qualitatively as 'high' but no quantitative number was provided, leading to incomplete information.",
+      "evidence": "Bilal — Their expected volume was described as high, but there was no number."
+    }
+  ]
+}

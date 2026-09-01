@@ -1,0 +1,48 @@
+{
+  "meeting_title": "Meeting Assistant Product Scope Discussion",
+  "summary": "The meeting focused on defining the initial scope for a meeting assistant product, confirming that the first version will convert notes into structured data, require human review before export, and support JSON export. Unresolved items include pricing, customer counts, uptime guarantees, launch geography, and the brand name.",
+  "decisions": [
+    {
+      "decision": "The first version of the meeting assistant product should require human review before export.",
+      "evidence": "Yes, the first version should require human review before export."
+    },
+    {
+      "decision": "The product scope for the prototype should be limited to the pasted-text workflow.",
+      "evidence": "Let us keep the product scope to the pasted-text workflow for the prototype."
+    },
+    {
+      "decision": "JSON export is required for launch.",
+      "evidence": "For launch, JSON export is required."
+    }
+  ],
+  "action_items": [],
+  "risks": [],
+  "open_questions": [
+    {
+      "question": "What is the pricing model?",
+      "owner": null,
+      "evidence": "We have not decided pricing, customer counts, uptime guarantees, or launch geography."
+    },
+    {
+      "question": "What are the target customer counts?",
+      "owner": null,
+      "evidence": "We have not decided pricing, customer counts, uptime guarantees, or launch geography."
+    },
+    {
+      "question": "What are the uptime guarantees?",
+      "owner": null,
+      "evidence": "We have not decided pricing, customer counts, uptime guarantees, or launch geography."
+    },
+    {
+      "question": "What is the launch geography?",
+      "owner": null,
+      "evidence": "We have not decided pricing, customer counts, uptime guarantees, or launch geography."
+    },
+    {
+      "question": "What is the final brand name?",
+      "owner": null,
+      "evidence": "We also do not have a final brand name."
+    }
+  ],
+  "ambiguities": []
+}

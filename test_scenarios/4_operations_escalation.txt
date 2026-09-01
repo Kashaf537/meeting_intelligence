@@ -1,0 +1,13 @@
+Mariam — Supplier Delta said the shipment should arrive Tuesday, but their tracking page still shows Friday.
+Zain — I called the supplier this morning. They said Tuesday verbally, but I do not have written confirmation.
+Hira — We can keep packing if the shipment arrives by Wednesday. After Wednesday we run short on cartons.
+Faisal — Finance has not approved the emergency purchase request yet.
+Mariam — Who will own the emergency purchase request?
+Zain — I thought Finance was handling it.
+Faisal — Finance can approve it, but Procurement must submit the request.
+Mariam — Then Procurement should submit it today.
+Zain — I can submit it today. I do not know the approval deadline.
+Hira — We could switch to the alternate carton supplier as a backup.
+Mariam — That is a contingency option, not a decision. We will decide after Finance responds.
+Faisal — The alternate supplier price is higher, but no final quote has been accepted.
+Mariam — Record the conflicting Tuesday/Friday delivery information as a risk.

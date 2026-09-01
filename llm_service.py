@@ -3,6 +3,7 @@
 import json
 import os
 import re
+from turtle import st
 
 from dotenv import load_dotenv
 from google import genai
@@ -593,7 +594,7 @@ def analyze_meeting(
     # API key
     # -----------------------------------------------------
 
-    api_key = os.getenv("GEMINI_API_KEY")
+    api_key = st.secrets("GEMINI_API_KEY")
 
     if not api_key:
         raise ValueError(
